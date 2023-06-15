@@ -2,15 +2,16 @@
 <meta name="react"/>
 <meta name="next"/>
 <meta name="vue" />
-<meta name="front-end" />
-<meta name="back-end" />
+<meta name="Blockchain" />
+<meta name="Web3" />
+<meta name="NFT" />
 <meta name="full-stack"/>
 <h1 align="left">
     <em>Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
     <em> 🚀 a Full-Stack Developer! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Next%20Front-end%20Developer;Express%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 ### :smile: Freelancing, Hiring, Permanent
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
